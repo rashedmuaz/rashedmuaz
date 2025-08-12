@@ -6,8 +6,4 @@ Helping Businesses Thrive on Shopify | Want a high-converting Shopify store that
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
-
-
 
