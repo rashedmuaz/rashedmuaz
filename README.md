@@ -4,6 +4,6 @@
 
 Helping Businesses Thrive on Shopify | Want a high-converting Shopify store that sells 24/7? I’m here to build it for you!
 
-Skills: REACT / JS / HTML / CSS
+
 
 
